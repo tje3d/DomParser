@@ -1,0 +1,14 @@
+{
+	"name": "tje3d/domparser",
+	"license": "MIT",
+	"authors": [{
+		"name": "Moein",
+		"email": "tje3d@yahoo.com"
+	}],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"Tje3d\\DomParser\\": "src/"
+		}
+	}
+}
